@@ -1,0 +1,71 @@
+IP College Website GitHub Optimization Report
+================================================
+Original uploaded ZIP size: 42.10 MB
+Optimized extracted project size: 2.78 MB
+Largest remaining single file: 0.26 MB
+
+Optimizations applied:
+- Removed unreferenced heavy assets.
+- Converted large PNG/JPG images to compressed WebP.
+- Updated HTML/CSS/JS asset references automatically.
+- Lightly minified HTML, CSS and JS.
+- Added .gitignore for GitHub.
+- Checked for missing local image/CSS/JS references.
+
+Removed unused assets:
+- assets/bba-business.png: 2.67 MB
+- assets/bca-computer.png: 2.35 MB
+- assets/biotech-lab.png: 2.86 MB
+- assets/commerce.png: 2.83 MB
+- assets/department-cultural-activities.png: 0.03 MB
+- assets/official-flowers.png: 0.58 MB
+- assets/official-founders-banner.png: 0.14 MB
+- assets/official-founders-full.png: 1.33 MB
+- assets/official-founders-wide.png: 0.92 MB
+- assets/science-maths.png: 2.77 MB
+- assets/teacher-education.png: 2.73 MB
+
+Converted images:
+- assets/campus-2-building.png -> assets/campus-2-building.webp: 0.81 MB to 0.04 MB, 1600x357
+- assets/department-biotechnology.png -> assets/department-biotechnology.webp: 2.86 MB to 0.15 MB, 1536x1024
+- assets/department-business-administration.png -> assets/department-business-administration.webp: 2.67 MB to 0.10 MB, 1536x1024
+- assets/department-commerce.png -> assets/department-commerce.webp: 2.83 MB to 0.14 MB, 1536x1024
+- assets/department-computer-science.png -> assets/department-computer-science.webp: 2.35 MB to 0.08 MB, 1536x1024
+- assets/department-library.png -> assets/department-library.webp: 0.19 MB to 0.04 MB, 1600x1000
+- assets/department-science-maths.png -> assets/department-science-maths.webp: 2.77 MB to 0.14 MB, 1536x1024
+- assets/department-sports-yoga.png -> assets/department-sports-yoga.webp: 0.31 MB to 0.04 MB, 1600x1000
+- assets/department-teacher-education.png -> assets/department-teacher-education.webp: 2.73 MB to 0.13 MB, 1536x1024
+- assets/founders-establishment.png -> assets/founders-establishment.webp: 0.44 MB to 0.04 MB, 583x500
+- assets/naac-gallery/naac-gallery-01.jpg -> assets/naac-gallery/naac-gallery-01.webp: 0.91 MB to 0.26 MB, 1600x1066
+- assets/naac-gallery/naac-gallery-02.jpg -> assets/naac-gallery/naac-gallery-02.webp: 0.30 MB to 0.06 MB, 1600x1066
+- assets/naac-gallery/naac-gallery-03.jpg -> assets/naac-gallery/naac-gallery-03.webp: 0.38 MB to 0.08 MB, 1600x1066
+- assets/naac-gallery/naac-gallery-04.jpg -> assets/naac-gallery/naac-gallery-04.webp: 0.49 MB to 0.13 MB, 1600x1066
+- assets/naac-gallery/naac-gallery-05.jpg -> assets/naac-gallery/naac-gallery-05.webp: 0.58 MB to 0.16 MB, 1600x1066
+- assets/naac-gallery/naac-gallery-06.jpg -> assets/naac-gallery/naac-gallery-06.webp: 0.61 MB to 0.17 MB, 1600x1066
+- assets/naac-gallery/naac-gallery-07.jpg -> assets/naac-gallery/naac-gallery-07.webp: 0.48 MB to 0.12 MB, 1600x1066
+- assets/naac-gallery/naac-gallery-08.jpg -> assets/naac-gallery/naac-gallery-08.webp: 0.46 MB to 0.11 MB, 1600x1066
+- assets/naac-gallery/naac-gallery-09.jpg -> assets/naac-gallery/naac-gallery-09.webp: 0.54 MB to 0.14 MB, 1600x1066
+
+Largest remaining files:
+- assets/naac-gallery/naac-gallery-01.webp: 0.26 MB
+- assets/naac-gallery/naac-gallery-06.webp: 0.17 MB
+- assets/naac-gallery/naac-gallery-05.webp: 0.16 MB
+- assets/department-biotechnology.webp: 0.15 MB
+- assets/department-commerce.webp: 0.14 MB
+- assets/department-science-maths.webp: 0.14 MB
+- assets/naac-gallery/naac-gallery-09.webp: 0.14 MB
+- assets/department-teacher-education.webp: 0.13 MB
+- assets/naac-gallery/naac-gallery-04.webp: 0.13 MB
+- assets/naac-gallery/naac-gallery-07.webp: 0.12 MB
+- assets/naac-gallery/naac-gallery-08.webp: 0.11 MB
+- assets/department-business-administration.webp: 0.10 MB
+- assets/naac-gallery/naac-gallery-03.webp: 0.08 MB
+- assets/department-computer-science.webp: 0.08 MB
+- css/styles.css: 0.07 MB
+- assets/naac-gallery/naac-gallery-02.webp: 0.06 MB
+- assets/campus-2-building.webp: 0.04 MB
+- assets/department-sports-yoga.webp: 0.04 MB
+- assets/founders-establishment.webp: 0.04 MB
+- assets/official-logo.png: 0.04 MB
+
+Missing local asset references found: 0
